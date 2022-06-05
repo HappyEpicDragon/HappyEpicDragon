@@ -14,12 +14,7 @@ cd -
 
 git init
 
-git add docs
-git add pics
-git add deploy.sh
-git add package-lock.json
-git add package.json
-git add node_modules.zip
+git add -A
 
 git commit -m 'backup'
 
